@@ -1,0 +1,34 @@
+A share market is where shares are either issued or traded (buy/sell)
+
+A stock market is similar to share market. The key difference is that a stock market helps you trade financial assets like bonds, mutualfunds, derivatives as well as shares of companies
+
+A share market only allows trading of shares.
+
+A stock exchange is the basic platform that provides the facilities to trade company stocks and other securities. 
+
+A stock may be bought or sold only it is listed on the exchange. It is the meeting place of the stock buyers and sellers.
+
+India's premiere exchanges are the Bombay stock exchange and National Stock Exchange
+
+how does share market work?
+
+1. company gets listed in the primary market through an IPO
+
+2. Shares get distributed in the secondary market
+
+3. The stocks issued can be traded by the investors in the secondary market
+
+4. Stock brokers and brokerage firms are entities registered with the stock exchange which offers you to buy particular share at said price
+
+5. Your broker passes on your buy order to the exchange, which searches for the sell order for the same share
+
+6. The process takes T+2 days 
+
+Difference between share and stock
+
+Stock represents hodler's part-ownership in one or several companies.
+
+Share refers to a single unit of ownership in company
+
+For example, if X has invested in stocks,
+it could mean X has a portfolio of shares across different companies
