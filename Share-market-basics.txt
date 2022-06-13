@@ -4,6 +4,7 @@ A stock market is similar to share market. The key difference is that a stock ma
 
 A share market only allows trading of shares.
 
+
 A stock exchange is the basic platform that provides the facilities to trade company stocks and other securities. 
 
 A stock may be bought or sold only it is listed on the exchange. It is the meeting place of the stock buyers and sellers.
